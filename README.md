@@ -22,7 +22,7 @@ cd path/to/project
 
 3.  Run the PHP program:
 
-php game_of_life.php
+**php game_of_life.php**
 
 4.  The program will print the grid in the console and update it every
     generation (tick).
